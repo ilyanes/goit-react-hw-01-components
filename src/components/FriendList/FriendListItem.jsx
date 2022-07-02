@@ -1,4 +1,4 @@
-export default function FriendListItem({ avatar, name, isOnline, id }) {
+export default function FriendListItem({ avatar, name, isOnline }) {
   return (
     <li className="item">
       <div
