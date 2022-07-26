@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="App">
       <Profile
-        name={user.name}
+        username={user.name}
         tag={user.tag}
         location={user.location}
         avatar={user.avatar}
